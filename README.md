@@ -69,3 +69,4 @@ arch -arm64 brew install gtk+3
 Make sure the file pomodoro.cpp is in your current working directory when compiling
 
 Enjoy
+Thank You for visiting
