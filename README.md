@@ -4,7 +4,7 @@ A simple GTK-based Pomodoro timer application that helps you manage work/break i
 
 ## Installation
 
-## Preequisites
+## Prerequisites
 
 - macOS (tested on macOS Monteray, Intel based Mac)
 - Homebrew package manager
